@@ -21,11 +21,9 @@ I found some issues.
 - In this password field, it also accepts a leading blank space.
 
 - Accepts copy-paste into the password field.
-## Screenshort
-
-
-
-
+## Report for Test Case
+![report](https://user-images.githubusercontent.com/92669932/189522336-83e31fe1-5e75-474c-b653-8665896e2180.jpg)
+### Test case details are below
 ![1](https://user-images.githubusercontent.com/92669932/189516002-801f04db-2a26-45cb-88ed-75d5c2faa703.jpg)
 ![2](https://user-images.githubusercontent.com/92669932/189516008-476e14c3-e022-4629-860b-4eda464814c4.jpg)
 ![3](https://user-images.githubusercontent.com/92669932/189516012-4d6f14fe-4da0-4935-820f-df8e29e7cf7f.jpg)
